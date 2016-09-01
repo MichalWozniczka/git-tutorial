@@ -1,0 +1,5 @@
+git add .
+  to add stuff to repository
+git commit -m "message"
+  to save repository to computer
+git push
